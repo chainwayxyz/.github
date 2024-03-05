@@ -1,4 +1,8 @@
-<p align="center"><a href="https://citrea.xyz" target="_blank"><img alt="Citrea, Bitcoin's First ZK Rollup" title="Citrea, Bitcoin's First ZK Rollup" src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTuXNLBY0c2ooeRRZ02pIXHvU9QotysCmOgGVlENViNkzdkuLW53Ja_j_FPFVB_uyb9rWi6xGq2WqlheiFhnwTk7lySAg=s1600" width="100%">
+<p align="center"><a href="https://citrea.xyz" target="_blank"><img alt="Citrea, Bitcoin's First ZK Rollup" title="Citrea, Bitcoin's First ZK Rollup" src="https://github.com/kurniamisbah/.github/blob/main/proper_bg.png" width="100%">
+</a>
+</p>
+
+<p align="center"><a href="https://citrea.xyz" target="_blank"><img alt="Citrea, Bitcoin's First ZK Rollup" title="Citrea, Bitcoin's First ZK Rollup" width="100%">
 </a>
 </p>
 
