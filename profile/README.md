@@ -2,7 +2,7 @@
 </a>
 </p>
 
-<p align="center"><a href="https://citrea.xyz" target="_blank"><img alt="Citrea, Bitcoin's First ZK Rollup" title="Citrea, Bitcoin's First ZK Rollup" width="100%">
+<p align="center"><a href="https://citrea.xyz" target=""><img alt="Citrea, Bitcoin's First ZK Rollup" title="Citrea, Bitcoin's First ZK Rollup" width="100%">
 </a>
 </p>
 
